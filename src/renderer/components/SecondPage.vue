@@ -6,7 +6,7 @@
         <span class="title">
           Welcome to your new project!
         </span>
-        <system-information></system-information>
+
       </div>
 
       <div class="right-side">
@@ -20,7 +20,7 @@
           <button @click="open('https://simulatedgreg.gitbooks.io/electron-vue/content/')">Read the Docs</button><br><br>
         </div>
         <div class="doc">
-          <div class="title alt">Otherqqq333335555 Documentation</div>
+          <div class="title alt">Documentation</div>
           <button class="alt" @click="open('https://electron.atom.io/docs/')">Electron</button>
           <button class="alt" @click="open('https://vuejs.org/v2/guide/')">Vue.js</button>
         </div>
